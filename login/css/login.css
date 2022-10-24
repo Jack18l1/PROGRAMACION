@@ -1,0 +1,22 @@
+
+.bad {
+    text-align: center;
+    width: 100%;
+    padding: 12px;
+    background-color: #a22;
+    color: #fff;
+}
+
+.h2 {
+    font-size: 30px;
+}
+.h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+ h2 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
